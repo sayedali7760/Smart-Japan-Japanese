@@ -1,0 +1,10 @@
+2024.05.07 13:01:44	2	WebApiExtensionExample:incorrect header read,  0 bytes
+2024.05.07 13:01:44	2	WebApiExtensionExample:parse custom command failed: [4]Invalid data
+2024.05.07 13:02:47	2	WebApiExtensionExample:incorrect header read,  0 bytes
+2024.05.07 13:02:47	2	WebApiExtensionExample:parse custom command failed: [4]Invalid data
+2024.05.07 13:02:52	2	WebApiExtensionExample:incorrect header read,  0 bytes
+2024.05.07 13:02:52	2	WebApiExtensionExample:parse custom command failed: [4]Invalid data
+2024.05.07 13:02:55	2	WebApiExtensionExample:incorrect header read,  0 bytes
+2024.05.07 13:02:55	2	WebApiExtensionExample:parse custom command failed: [4]Invalid data
+2024.05.07 13:09:27	2	WebApiExtensionExample:auth answer failed: [1001]Invalid account
+2024.05.07 13:09:32	2	WebApiExtensionExample:auth answer failed: [1001]Invalid account
